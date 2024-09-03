@@ -1,6 +1,6 @@
 ### Control de ilumunacion RGB
 
-##Memia descriptiva
+## Memoria descriptiva
 
 Mi sistema representa un control de iluminación RGB. El funcionamiento del mismo se basa en un
 temporizador, el cual determine cuanto tiempo se mantendrá cada ciclo de iluminación, y un
@@ -10,5 +10,5 @@ Primero se enciende el sistema, encendiendo el Led rojo. Despues de determinado 
 usuasrio interactua con el pulsador se cambia al siguiente ciclo de color. Entre ciclo y ciclo el
 contador se reinicia y a cada ciclo se le puede configurar el tiempo de accion.
 
-##Esquema
+## Esquema
 ![Maquina de estado](https://github.com/user-attachments/assets/f7a4ee4d-a866-46f1-a59f-6930f914686d)
