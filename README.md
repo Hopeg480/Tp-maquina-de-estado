@@ -1,6 +1,7 @@
 ### Control de ilumunacion RGB
 
 ##Memia descriptiva
+
 Mi sistema representa un control de iluminación RGB. El funcionamiento del mismo se basa en un
 temporizador, el cual determine cuanto tiempo se mantendrá cada ciclo de iluminación, y un
 pulsador con el cual el usuario puede interactuar para poder alternar como desee por los diferentes
