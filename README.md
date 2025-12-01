@@ -20,3 +20,6 @@ Primero se enciende el sistema, encendiendo el Led rojo. Despues de determinado 
 
 ![Esquema maquina de estados](https://github.com/user-attachments/assets/07ec5efb-2aaa-4310-a8d6-fe946eaefea0)
 
+##  Simulacion
+
+https://www.youtube.com/watch?v=YZOMg7R9ry0
